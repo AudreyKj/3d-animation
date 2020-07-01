@@ -4,11 +4,13 @@
 
 Made with create-react-app.
 
+[visit live app](https://3d-animation.netlify.app)
+
 ## Tech
 
 **Stack**: CSS, JavaScript, Three.js, [Physijs](https://github.com/chandlerprall/Physijs)<br />
-**Framework**: React <br />
-**Deployment**: Heroku
+**Framework**: React with CRA<br />
+**Deployment**: Netlify
 
 ## Visual
 
