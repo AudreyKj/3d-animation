@@ -2,7 +2,7 @@
   "name": "animation3d-new",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/build",
+  "homepage": ".",
   "engines": {
     "npm": "6.13.4",
     "node": "v12.14.0"
