@@ -17,7 +17,7 @@
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0",
     "react-scripts": "3.4.1",
-    "three": "^0.118.3",
+    "three": "^0.125.0",
     "three-dragcontrols": "^0.88.2"
   },
   "scripts": {
