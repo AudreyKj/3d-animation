@@ -1,7 +1,5 @@
 # 3D web animation made with JavaScript, React, physics engine, Three.js
 
-3D web animation made with JavaScript, React, physics engine [Physijs](https://github.com/chandlerprall/Physijs), and Three.js.<br /> 
-
 The 3D pieces move according to the physics engine's gravity and are draggable. <br />
 
 [visit live app](https://3d-animation.netlify.app)
