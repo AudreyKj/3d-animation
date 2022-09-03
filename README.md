@@ -1,17 +1,19 @@
-# 3D web animation made with React, Three.js, physics engine
+# 3D web animation made with JavaScript, React, physics engine, Three.js
 
-3D web animation made with React, Three.js, and physics engine [Physijs](https://github.com/chandlerprall/Physijs).<br /> The 3D pieces move according to the physics engine's gravity and are draggable. <br />
+3D web animation made with JavaScript, React, physics engine [Physijs](https://github.com/chandlerprall/Physijs), and Three.js.<br /> 
 
-Made with create-react-app.
+The 3D pieces move according to the physics engine's gravity and are draggable. <br />
 
 [visit live app](https://3d-animation.netlify.app)
 
 ## Tech
 
-**Stack**: CSS, JavaScript, Three.js, [Physijs](https://github.com/chandlerprall/Physijs)<br />
+**Stack**: JavaScript, Three.js, [Physijs](https://github.com/chandlerprall/Physijs)<br />
 **Framework**: React with CRA<br />
 **Deployment**: Netlify
 
 ## Visual
 
-![screenshot](screenshot.png)
+![web page with animation screenshot 1](screenshot1.png)
+
+![web page with animation screenshot 2](screenshot2.png)
