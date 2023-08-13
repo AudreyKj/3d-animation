@@ -3,6 +3,7 @@ import Playground from "./playground.js";
 import PlaygroundMobile from "./playground-mobile.js";
 import "./App.css";
 import { Helmet } from "react-helmet";
+import {Version} from '../package.json';
 
 function App() {
   const [state, setState] = useState({
@@ -12,6 +13,7 @@ function App() {
   /* eslint-disable */
   useEffect(() => {
     setTimeout(() => {
+      console.log('VERSION:', Version)
       setState(state => {
         return {
           isLoaded: false
@@ -57,6 +59,7 @@ function App() {
         >
           GitHub
         </a>
+        <h1>VERSION: {Version}</h1>
       </header>
     </div>
   );
