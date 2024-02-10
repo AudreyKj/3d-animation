@@ -10,8 +10,7 @@ The 3D pieces move according to the physics engine's gravity and are draggable. 
 **Framework**: React with CRA<br />
 **Deployment**: Netlify
 
-## Visual
+## SCREENSHOT
 
 ![web page with animation screenshot 1](screenshot1.png)
 
-![web page with animation screenshot 2](screenshot2.png)
